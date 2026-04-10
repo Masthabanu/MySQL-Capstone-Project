@@ -1,6 +1,6 @@
 # MySQL Capstone Project: E-Commerce Customer Churn Analysis 
 
-**What I worked on:
+**What I worked on:**
 
 • Data cleaning (handling null values & outliers)
 
@@ -8,7 +8,7 @@
 
 • Writing SQL queries using JOIN, GROUP BY, CASE, and aggregate functions
 
-🔍 Key Insights:
+**Key Insights:**
 
 • Customers who complained have higher churn rates.
 
@@ -22,7 +22,7 @@
 
 • Customers receiving higher cashback are less likely to churn
 
-🛠️ Tools Used:
+**Tools Used:**
 
 • MySQL
 
