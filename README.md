@@ -40,10 +40,10 @@ The analysis provides actionable insights that help businesses understand custom
 ## 📊 Sample Outputs
 
 ### Churn Count
-![Churn Count](screenshots/churn_count.png)
+<img src="churn_count.png" width="800">
 
 ### Join Query Output
-![Join](screenshots/joins_query_output.png)
+<img src="joins_query_output.png" width="800">
 
 ### Payment Mode Analysis
-![Payment](screenshots/payment_mode_analysis.png)
+<img src="payment_mode_analysis.png" width="800">
