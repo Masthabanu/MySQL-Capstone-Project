@@ -36,3 +36,14 @@ This project analyzes customer churn behavior in an e-commerce business using My
 
 ## Conclusion:
 The analysis provides actionable insights that help businesses understand customer churn and improve retention strategies using data-driven decisions.
+
+## 📊 Sample Outputs
+
+### Churn Count
+![Churn Count](screenshots/churn_count.png)
+
+### Join Query Output
+![Join](screenshots/joins_query_output.png)
+
+### Payment Mode Analysis
+![Payment](screenshots/payment_mode_analysis.png)
