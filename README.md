@@ -1,6 +1,6 @@
-🚀## MySQL Capstone Project: E-Commerce Customer Churn Analysis 
+# 🚀 MySQL Capstone Project: E-Commerce Customer Churn Analysis 
 
-🛠️ What I worked on:
+** 🛠️ What I worked on: **
 
 • Data cleaning (handling null values & outliers)
 
