@@ -14,7 +14,7 @@ This project analyzes customer churn behavior in an e-commerce business using My
 
 • Data transformation and Data Analysis
 
-• Writing SQL queries using JOIN, GROUP BY, CASE, and aggregate functions
+• SQL queries using JOIN, GROUP BY, CASE, and aggregate functions
 
 ## Key Insights:
 
