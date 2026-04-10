@@ -43,7 +43,7 @@ The analysis provides actionable insights that help businesses understand custom
 <img src="churn_count.png" width="400">
 
 ### Join Query Output
-<img src="joins_query_output.png" width="800">
+<img src="joins_query_output.png" width="400">
 
 ### Payment Mode Analysis
-<img src="payment_mode_analysis.png" width="800">
+<img src="payment_mode_analysis.png" width="400">
