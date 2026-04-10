@@ -40,7 +40,7 @@ The analysis provides actionable insights that help businesses understand custom
 ## 📊 Sample Outputs
 
 ### Churn Count
-<img src="churn_count.png" width="800">
+<img src="churn_count.png" width="400">
 
 ### Join Query Output
 <img src="joins_query_output.png" width="800">
